@@ -1,0 +1,21 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.externalToolBuilders/
+.factorypath
+.checkstyle
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+dependency-reduced-pom.xml
+log/
+target/
+
